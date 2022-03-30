@@ -1,4 +1,4 @@
-# todo-go-react
+# Todo App in GoLang
 Todo app built using GoLang, MongoDB and React.js
 
 ### Technologies used
