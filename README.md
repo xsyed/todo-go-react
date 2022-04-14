@@ -23,14 +23,14 @@ npm install
 
 ### Running the Application Locally
 
-In one terminal, start the front end:
+In one terminal (first terminal), start the front end:
 
 ```
 cd todo
 npm start
 ```
 
-In a separate terminal, start the back end:
+In a separate terminal (second terminal), start the back end:
 
 ```
 cd todo-react
